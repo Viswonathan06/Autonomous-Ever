@@ -13,4 +13,4 @@ Have fun learning and coding!
 
 Link to resources : https://docs.google.com/document/d/1DiQrI3NPjgCZUFvDkt2I8ygMoGzHr8_Fko55E7p14V0/edit?usp=sharing
 
-
+**Note: Upload notebooks unless using OpenCV**
